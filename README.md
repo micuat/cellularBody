@@ -1,9 +1,9 @@
-Real-life particle controller at the 4th Choreographic Coding Lab
+Cellular Body (No Time To Fly)
 ========
 
 Naoto Hieda - Aug 30, 2015
 
-Physical particle controller based on the motion data of No Time To Fly - work in progress.
+Real-life particle controller based on the motion data of No Time To Fly.
 
 Requires SPIDAR-mouse, a haptic device developed by Sato Lab.
 
