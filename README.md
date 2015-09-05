@@ -7,6 +7,7 @@ Real-life particle controller based on the motion data of No Time To Fly.
 
 Requires SPIDAR-mouse, a haptic device developed by Sato Lab.
 
+![]( http://cim.mcgill.ca/~nhieda/img/ccl4.png )
 
 No Time To Fly
 --------
