@@ -9,6 +9,8 @@ Requires SPIDAR-mouse, a haptic device developed by Sato Lab.
 
 ![]( http://cim.mcgill.ca/~nhieda/img/ccl4.png )
 
+![]( http://cim.mcgill.ca/~nhieda/img/ccl4smalt.png )
+
 No Time To Fly
 --------
 
